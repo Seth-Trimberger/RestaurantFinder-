@@ -8,12 +8,10 @@ import './App.css';
 //   ZipCode: "Test4",
 //   Category: "Test5",
 //   Rating: "Test6",
-//   ReviewCount: "Test7"
+//   ReviewCount: "zTest7"
 
 const Business = {
-  return(
-
-  )
+ 
 }
 
 
